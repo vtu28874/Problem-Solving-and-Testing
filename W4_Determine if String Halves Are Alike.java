@@ -25,3 +25,5 @@ class Solution {
                c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U';
     }
 }
+
+
